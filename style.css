@@ -199,4 +199,12 @@ footer a {
     padding: 10px;
     line-height: normal;
   }
+  
+      nav ul li {    
+    font-size: 5.8vw;
+  }
+  
+  .project-title {
+    font-size: 5.8vw;
+  }
 }
